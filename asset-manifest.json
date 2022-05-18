@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React-App-2.github.io/static/css/main.71700201.css",
+    "main.js": "/React-App-2.github.io/static/js/main.dd31ec15.js",
+    "static/media/web.jpg": "/React-App-2.github.io/static/media/web.24bb8fb8ed1606142d35.jpg",
+    "static/media/book.jpg": "/React-App-2.github.io/static/media/book.ff9c7222218f741e8b7e.jpg",
+    "static/media/yutube.jpg": "/React-App-2.github.io/static/media/yutube.9349b22c1097668b5ec7.jpg",
+    "static/media/webdev.jpg": "/React-App-2.github.io/static/media/webdev.3f2c1a449121be3aa1a6.jpg",
+    "static/media/chill.jpg": "/React-App-2.github.io/static/media/chill.2342ee833e5e5371e064.jpg",
+    "static/media/prof.jpg": "/React-App-2.github.io/static/media/prof.afbca7fc36a0533dc42f.jpg",
+    "index.html": "/React-App-2.github.io/index.html",
+    "main.71700201.css.map": "/React-App-2.github.io/static/css/main.71700201.css.map",
+    "main.dd31ec15.js.map": "/React-App-2.github.io/static/js/main.dd31ec15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71700201.css",
+    "static/js/main.dd31ec15.js"
+  ]
+}
